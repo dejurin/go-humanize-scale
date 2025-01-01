@@ -1,6 +1,6 @@
 sudo: false
 language: go
-go_import_path: github.com/dustin/go-humanize
+go_import_path: github.com/dejurin/go-humanize-scale
 go:
   - 1.13.x
   - 1.14.x
