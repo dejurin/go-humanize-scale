@@ -1,6 +1,6 @@
 module github.com/dejurin/go-humanize-scale
 
-go 1.23
+go 1.19
 
 require (
 	github.com/cockroachdb/apd/v3 v3.2.1
